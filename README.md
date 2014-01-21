@@ -22,4 +22,4 @@ Usage
 
 Similar Work
 -
-If you like `pullquotable`, or if you like the idea but it's not quite to your taste, check out [Paul Ford's Save Publishing bookmarlet](http://www.savepublishing.com).
+If you like `pullquotable`, or if you like the idea but it's not quite to your taste, check out [Paul Ford's Save Publishing bookmarklet](http://www.savepublishing.com).
