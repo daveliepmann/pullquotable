@@ -7,7 +7,7 @@ I like to tweet links alongside a hopefully-interesting pull quote. I became fru
 
 Installation
 -
-Go to [daveliepmann.com/pullquotable/bookmarklet](http://www.daveliepmann.com/pullquotable/bookmarklet) and follow the instructions. Or, if you'd rather do it manually, put the appropriate statement in `pullquotable.js` into a bookmark in your bookmarks bar.
+Go to [daveliepmann.com/pullquotable/bookmarklet](http://www.daveliepmann.com/pullquotable/bookmarklet) and follow the instructions. Or, if you'd rather do it manually, put the appropriate javascript statement from `pullquotable.js` into a bookmark in your bookmarks bar.
 
 You can customize `pullquotable` to any color you like, as long as it's green or you modify the javascript yourself :)
 
