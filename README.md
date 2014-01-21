@@ -19,3 +19,7 @@ Usage
  1. Bask in the glory of knowing whether it will fit in your next brilliant twitterpation.
 
 **Nota Bene**: Twitter's URL shortener [seems to take up 22 (23 for https) characters](http://support.conversocial.com/entries/23471033-How-many-characters-do-URLs-use-on-Twitter-), making **117**, not 140, the magic number. 
+
+Similar Work
+-
+If you like `pullquotable`, or if you like the idea but it's not quite to your taste, check out [Paul Ford's Save Publishing bookmarlet](http://www.savepublishing.com).
