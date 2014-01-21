@@ -9,9 +9,7 @@ I like to tweet links along with a hopefully-interesting pull quote. Frustrated 
 
 Usage
 -
-[pullquotable?](javascript:if \(document.body.contains(counter140\)\) document.body.removeChild(counter140\);else {var counter140=document.createElement\("div"\);counter140.textContent = window.getSelection\(\).toString\(\).length;counter140.id = "counter140";counter140.style.position = "fixed";counter140.style.backgroundColor = "#66FF66"; counter140.style.padding = "8px"; counter140.style.fontSize = "16px";counter140.style.textAlign = "center";document.body.insertBefore\(counter140, document.body.firstChild\);document.onselectionchange = function\(\) { document.getElementById\("counter140"\).textContent = window.getSelection\(\).toString\(\).length; };}\)
-
-Manually: put the javascript into a bookmark. Put that bookmark onto your bookmarks toolbar. Click the bookmark once to toggle `pullquotable` on. Click the bookmark again to toggle `pullquotable` off.
+Put the javascript into a bookmark. Put that bookmark onto your bookmarks toolbar. Click the bookmark once to toggle `pullquotable` on. Click the bookmark again to toggle `pullquotable` off.
 
 You can customize `pullquotable` to any color you like, as long as it's green, or you modify the javascript yourself :)
 
