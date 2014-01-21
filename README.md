@@ -9,7 +9,7 @@ I like to tweet links along with a hopefully-interesting pull quote. Frustrated 
 
 Usage
 -
-Go to [daveliepmann.com/pullquotable/bookmarklet](daveliepmann.com/pullquotable/bookmarklet) and follow the instructions.
+Go to [daveliepmann.com/pullquotable/bookmarklet](http://www.daveliepmann.com/pullquotable/bookmarklet) and follow the instructions.
 
 Click the bookmark once to toggle `pullquotable` on. Select some text and see how many characters it is. Click the bookmark again to toggle `pullquotable` off.
 
