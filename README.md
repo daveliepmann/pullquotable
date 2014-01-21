@@ -9,7 +9,10 @@ Usage
 -
 Go to [daveliepmann.com/pullquotable/bookmarklet](http://www.daveliepmann.com/pullquotable/bookmarklet) and follow the instructions.
 
-Click the bookmark once to toggle `pullquotable` on. Select some text and see how many characters it is. Click the bookmark again to toggle `pullquotable` off. Bask in the glory of knowing whether it will fit in your next brilliant twitterpation.
+ 1. Click the bookmark once to toggle `pullquotable` on.
+ 1. Select some text and see how many characters it is.
+ 1. Click the bookmark again to toggle `pullquotable` off.
+ 1. Bask in the glory of knowing whether it will fit in your next brilliant twitterpation.
 
 You can customize `pullquotable` to any color you like, as long as it's green or you modify the javascript yourself :)
 
